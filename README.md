@@ -19,7 +19,7 @@ TimeZone   :  THAILAND
 
 Debian8
 
-wget -O pritunl8.sh https://github.com/D1NFUCK3Rs/oneclick-pritunl/blob/master/pritunl8.sh?raw=true
+wget -O pritunl8.sh https://github.com/nsuuuuz1/Auto-install-pritunl-8/blob/master/pritunl8.sh?raw=true
 chmod +x pritunl8.sh
 ./pritunl8.sh
 
